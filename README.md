@@ -1,9 +1,3 @@
-
-<img width="433" height="893" alt="Screenshot 2026-04-09 at 10 17 20 PM" src="https://github.com/user-attachments/assets/83a044b7-ee33-411c-807a-e393b3667983" />
-
-
-
-
 # 🌤 Aesthetic Weather App (Python + Tkinter)
 
 A modern and visually appealing **Weather App** built using **Python (Tkinter GUI)**.  
@@ -53,6 +47,10 @@ weather_app/
 
 ---
 
+
+<img width="433" height="893" alt="Screenshot 2026-04-09 at 10 17 20 PM" src="https://github.com/user-attachments/assets/83a044b7-ee33-411c-807a-e393b3667983" />
+
+
 ## ⚙️ Installation
 
 Install required libraries:
@@ -77,3 +75,10 @@ Lifestyle tips 🧠
 ⚠️ Notes
 Internet connection required 🌐
 Pollen data may show N/A in some regions
+
+
+
+
+
+
+
